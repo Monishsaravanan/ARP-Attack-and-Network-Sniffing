@@ -20,8 +20,8 @@ Investigate on the various categories of tools as follows:
 Open terminal and try execute some kali linux commands
 
 ```
-NAME: ATCHAYA.K
-REGISTER NO: 212223220011
+NAME: MONISH S
+REGISTER NO: 212223040115
 ```
 
 ## ARP Attacks:  
